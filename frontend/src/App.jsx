@@ -3,7 +3,7 @@ import io from 'socket.io-client';
 import { useEffect,useState } from 'react';
 import Editor from '@monaco-editor/react';
 
-const socket= io("http://localhost:5000");
+const socket= io("http://localhost:5173/");
 
 const App = () => {
   const[joined,setJoined]= useState(false);

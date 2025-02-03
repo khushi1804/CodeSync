@@ -7,7 +7,8 @@ import axios from "axios";
 const app= express();
 
 const server = http.createServer(app);
-
+const url= `http://localhost:5173/`;
+const interval = 30000;
 
 function reloadWebsite() {
     axios
