@@ -74,7 +74,7 @@ Visit http://localhost:3000 to start collaborating in real time.
 Deployment
 
 The project is deployed on Render and can be accessed at:
-🔗 CodeSync Live
+🔗 https://codesync-p16i.onrender.com/
 
 Contributing
 
